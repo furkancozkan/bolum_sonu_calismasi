@@ -1,6 +1,6 @@
 # Kodluyoruz HTML Odev 3
 
-Patika.dev HTML eğitimi kapsamında yapılan üçüncü ve son ödev.
+Patika.dev HTML eğitimi kapsamında yapılan bölüm sonu çalışması.
 ---
 ![img1](https://i.imgur.com/JwY2aOv.png)
 ---
